@@ -1,0 +1,8 @@
+{
+  "name": "Nocturne",
+  "description": "Mobile-first obsidian audio & music streaming app with live Audius streaming, synced LRCLIB lyrics, 10-band Web Audio equalizer, offline IndexedDB downloads, collaborative playlists, and podcasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
